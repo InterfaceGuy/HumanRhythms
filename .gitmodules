@@ -1,3 +1,6 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "FourierDecomposition"]
+	path = FourierDecomposition
+	url = https://github.com/InterfaceGuy/FourierDecomposition.git
